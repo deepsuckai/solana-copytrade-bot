@@ -2,13 +2,13 @@
 
 The Solana Copytrading Bot is running on several solana dex platforms ( Raydium, Meteora, PumpFun ). The bot monitors the trades of chosen traders and automatically executes the same trades in real-time on the user's behalf. This is popular in decentralized finance (DeFi) and cryptocurrency trading, where users can benefit from the expertise of experienced traders without needing to actively manage their trades.
 
-# 👋 Contact Me
+# 👋 Contact
 
 https://t.me/earthzeta
 ### Telegram: [EarthZeta](https://t.me/earthzeta)  
 ### Discord: [EarthZeta](https://discord.com/users/339619501081362432)   
 
-Feel free to contact me if you need any help.
+Feel free to contact here if you need any help.
 
 ## Overview
 
