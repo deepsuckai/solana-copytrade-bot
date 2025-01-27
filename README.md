@@ -4,10 +4,9 @@ The Solana Copytrading Bot is running on several solana dex platforms ( Raydium,
 
 # 👤 Contact Me
 
-### Discord: [Earth Zeta](https://discord.com/users/339619501081362432)   
-earthzeta
-### Telegram: [₿TC-GOD WEB3](https://t.me/opensea712)   
-https://t.me/opensea712
+https://t.me/earthzeta
+### Telegram: [EarthZeta](https://t.me/earthzeta)  
+### Discord: [EarthZeta](https://discord.com/users/339619501081362432)   
 
 Feel free to contact me if you need any help.
 
